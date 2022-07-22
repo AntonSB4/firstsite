@@ -1,0 +1,12 @@
+#header{
+    background-color: #7b1fa2;
+    }
+div.breadcrumbs{
+    background-color: #8e24aa;
+}
+#changelist-filter h2{
+    background-color: #8e24aa;
+}
+.button.default, input[type=submit].default, .submit-row input.default{
+    background-color: #8e24aa;
+}
